@@ -8,7 +8,7 @@ logs/
 *.log
 
 # Generated data files
-data/transactions.txt
+data/transactions.csv
 
 # Virtual environment (if created later)
 venv/
